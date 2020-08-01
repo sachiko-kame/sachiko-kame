@@ -5,5 +5,5 @@
 </a>
 
 <a href="https://github.com/sachiko-kame">
-  <img width=130 align="left" src="https://github.com/sachiko-kame/sachiko-kame/blob/master/a.png?raw=true" />
+  <img width=130 align="left" src="https://github.com/sachiko-kame/sachiko-kame/blob/master/aa.png?raw=true" />
 </a>
