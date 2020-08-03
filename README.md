@@ -1,4 +1,4 @@
-### よろしくお願いします！(Thank you!) 🐢
+### よろしくお願いします！(Thank you!)
 
 <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme_ja.md">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sachiko-kame&count_private=true&show_icons=true&theme=radical" />
